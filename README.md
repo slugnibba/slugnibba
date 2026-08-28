@@ -2,8 +2,6 @@
 
 # `slugnibba@github`
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00b8ff,100:9b00ff&height=180&section=header&text=SLUGNIBBA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 ```text
