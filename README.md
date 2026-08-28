@@ -2,7 +2,10 @@
 
 # `slugnibba@github`
 
+```html
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&color=00FF00&center=true&vCenter=true&width=500&lines=slugnibba%40github%3A~%24+whoami;Yogi+Prasetya;SYSTEM+ONLINE" />
 ```text
+
  ███████╗██╗     ██╗   ██╗ ██████╗ ███╗   ██╗██╗██████╗ ██████╗  █████╗
  ██╔════╝██║     ██║   ██║██╔════╝ ████╗  ██║██║██╔══██╗██╔══██╗██╔══██╗
  ███████╗██║     ██║   ██║██║  ███╗██╔██╗ ██║██║██████╔╝██████╔╝███████║
