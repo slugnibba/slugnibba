@@ -2,8 +2,6 @@
 
 # `slugnibba@github`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00b8ff,100:9b00ff&height=180&section=header&text=SLUGNIBBA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
-
 ```text
  ███████╗██╗     ██╗   ██╗ ██████╗ ███╗   ██╗██╗██████╗ ██████╗  █████╗
  ██╔════╝██║     ██║   ██║██╔════╝ ████╗  ██║██║██╔══██╗██╔══██╗██╔══██╗
@@ -27,7 +25,7 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
-$ neofetch
+slugnibba@void:~$ neofetch
 
 OS        : Linux
 USER      : slugnibba
@@ -38,7 +36,7 @@ LANG      : JavaScript / Python
 NETWORK   : MikroTik
 STATUS    : caffeinated
 
-$ cat about.txt
+slugnibba@void:~$ cat about.txt
 Yogi Prasetya
 
 I build random things,
@@ -46,13 +44,13 @@ break them,
 fix them,
 and occasionally pretend it was intentional.
 
-$ ls -la projects/
+slugnibba@void:~$ ls -la projects/
 drwxr-xr-x  shinmabot/
 drwxr-xr-x  network/
 drwxr-xr-x  experiments/
 drwxr-xr-x  random-stuff/
 
-$ pacman -Q | grep dev
+slugnibba@void:~$ pacman -Q | grep dev
 javascript
 python
 html-css
@@ -60,7 +58,7 @@ git
 linux
 mikrotik
 
-$ git status
+slugnibba@void:~$ git status
 
 On branch main
 Your branch is up to date with 'origin/main'.
